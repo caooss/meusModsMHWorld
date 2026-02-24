@@ -8,7 +8,7 @@
 | Nome / Link | Descrição | Imagem Nexus |
 | ----------- | ----------- | ----------- |
 | [Stracker's Loader](https://www.nexusmods.com/monsterhunterworld/mods/1982) | Basicamente o coração para os mods funcionarem | ![alt text](https://staticdelivery.nexusmods.com/mods/2531/images/1982/1982-1579465585-271404739.png) |
-| [Performance Booster and Plugin Extender](https://www.nexusmods.com/monsterhunterworld/mods/3473) | Mod para melhorar o desempenho do jogo em alguns casos específicos | ![alt text](https://staticdelivery.nexusmods.com/mods/2531/images/3473/3473-1590081543-894728759.png) |
+| [No Ciri and Geralt Fake Swords](https://www.nexusmods.com/monsterhunterworld/mods/6457) | Esconde as armas padrão das armaduras do GGeralt e Ciri | ![alt text](https://staticdelivery.nexusmods.com/mods/2531/images/6457/6457-1673567333-1235596608.jpeg) |
 | [Souvenir's Light Pillar](https://www.nexusmods.com/monsterhunterworld/mods/112) | Adiciona um pilar de luz para uma melhor visualização dos itens no chão | ![alt text](https://images.nexusmods.com/mod-headers/2531/112.jpg) |
 | [Monster Weakness Icon Indicator](https://www.nexusmods.com/monsterhunterworld/mods/1938) | Ícone da fraqueza de todos os monstros do jogo sem precisar acessar as Anotações de Caçador | ![alt text](https://staticdelivery.nexusmods.com/mods/2531/images/1938/1938-1578869474-1478079359.jpeg) |
 | [Invisible Mantles](https://www.nexusmods.com/monsterhunterworld/mods/4191) | Deixa todos os mantos do jogo invisíveis | ![alt text](https://staticdelivery.nexusmods.com/mods/2531/images/headers/4191_1597654655.jpg) |
